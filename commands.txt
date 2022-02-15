@@ -1,0 +1,3 @@
+/* Fixes the eslint errors */
+npx eslint src/**/*.jsx --fix
+npx eslint src/**/*.js --fix
